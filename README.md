@@ -93,26 +93,6 @@ Run the project:
 python app.py
 ```
 
----
-
-## 📷 Output Screenshots
-
-Add screenshots of:
-
-* Fraud detection results
-* EDA visualizations
-* Confusion matrix
-* Accuracy graphs
-* Prediction outputs
-
-Example folder:
-
-```bash id="q24rzu"
-screenshots/
-```
-
----
-
 ## 📁 Project Structure
 
 ```bash id="9dfjhv"
